@@ -1,0 +1,9 @@
+*.iml
+*.iws
+*.ipr
+target/
+.idea/
+.DS_Store
+db.backup/
+logs/
+src/main/resources/announcement/yammer-announcement.vm
